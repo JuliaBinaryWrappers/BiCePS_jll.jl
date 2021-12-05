@@ -1,6 +1,6 @@
 name = "BiCePS_jll"
 uuid = "7196b6e2-84d2-5468-aff3-a0acff4d3b58"
-version = "0.9.4+0"
+version = "0.9400.400+0"
 
 [deps]
 ALPS_jll = "6a88e26e-56cb-5037-a572-1ff8e7f440e8"
@@ -17,3 +17,8 @@ Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 [compat]
 JLLWrappers = "1.2.0"
 julia = "1.6"
+ALPS_jll = "100.500.702"
+CoinUtils_jll = "200.1100.400"
+Cgl_jll = "0.6000.300"
+Clp_jll = "100.1700.601"
+Osi_jll = "0.10800.600"

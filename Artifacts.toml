@@ -1,228 +1,280 @@
 [[BiCePS]]
 arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "722ab3caa696675c25cc56035471e0aa06d4b21f"
-libc = "glibc"
-os = "linux"
-
-    [[BiCePS.download]]
-    sha256 = "b0bac520a4138992050d2449057c8b5667774cf12ec83e6fed3836cf2fee14fb"
-    url = "https://github.com/JuliaBinaryWrappers/BiCePS_jll.jl/releases/download/BiCePS-v0.9.4+0/BiCePS.v0.9.4.aarch64-linux-gnu-cxx03.tar.gz"
-[[BiCePS]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "e8edcd31e20b094123760811bb121556557d85a6"
-libc = "glibc"
-os = "linux"
-
-    [[BiCePS.download]]
-    sha256 = "47db9c791f6d229293dc81e35afbdba2a6fd70672062f2fe5a1c43b03f2acbee"
-    url = "https://github.com/JuliaBinaryWrappers/BiCePS_jll.jl/releases/download/BiCePS-v0.9.4+0/BiCePS.v0.9.4.aarch64-linux-gnu-cxx11.tar.gz"
-[[BiCePS]]
-arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "7f387ffd07fe75143682cfb2b7070de1e5a475db"
-libc = "musl"
-os = "linux"
-
-    [[BiCePS.download]]
-    sha256 = "537cabdbef0d48cbafaba6d78a29cd6be4969d07a2889b557bcc02187c649cd7"
-    url = "https://github.com/JuliaBinaryWrappers/BiCePS_jll.jl/releases/download/BiCePS-v0.9.4+0/BiCePS.v0.9.4.aarch64-linux-musl-cxx03.tar.gz"
-[[BiCePS]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "7e548177d0b5f8427139399e3c1fc6be9593fe38"
-libc = "musl"
-os = "linux"
-
-    [[BiCePS.download]]
-    sha256 = "b28db688d186521ef5e35b5792f6df31a655ff361e029b3a4657fd058402676d"
-    url = "https://github.com/JuliaBinaryWrappers/BiCePS_jll.jl/releases/download/BiCePS-v0.9.4+0/BiCePS.v0.9.4.aarch64-linux-musl-cxx11.tar.gz"
-[[BiCePS]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "96eacd7e5ee3afc014e44cf7602f2bf2a511dc72"
-libc = "glibc"
-os = "linux"
-
-    [[BiCePS.download]]
-    sha256 = "768f3248ba7f4dc5d6784371fbedb21d01ec5b0ababf758d8747411c3c5f314a"
-    url = "https://github.com/JuliaBinaryWrappers/BiCePS_jll.jl/releases/download/BiCePS-v0.9.4+0/BiCePS.v0.9.4.armv7l-linux-gnueabihf-cxx03.tar.gz"
-[[BiCePS]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "de63559cfa3aba4fd8f3e1b31a68c67484e39543"
-libc = "glibc"
-os = "linux"
-
-    [[BiCePS.download]]
-    sha256 = "11d7f9e78d180059e37745f76f836167e43db76124bbd5fc87d4fab67f74f428"
-    url = "https://github.com/JuliaBinaryWrappers/BiCePS_jll.jl/releases/download/BiCePS-v0.9.4+0/BiCePS.v0.9.4.armv7l-linux-gnueabihf-cxx11.tar.gz"
-[[BiCePS]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "7949fa25f56e65c84ddebb3ccba14894ee029bfb"
-libc = "musl"
-os = "linux"
-
-    [[BiCePS.download]]
-    sha256 = "48e49a917953898c5c6cdb6c038cd04ce65fd5bcbcf855b72b6bff88f90ddb19"
-    url = "https://github.com/JuliaBinaryWrappers/BiCePS_jll.jl/releases/download/BiCePS-v0.9.4+0/BiCePS.v0.9.4.armv7l-linux-musleabihf-cxx03.tar.gz"
-[[BiCePS]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "b63d422ac31dadb7d686eea03fe0537e367361f5"
-libc = "musl"
-os = "linux"
-
-    [[BiCePS.download]]
-    sha256 = "1ec7b37552130334633e1e7899d08c448c29ade55a35943b2d081b67e21bd136"
-    url = "https://github.com/JuliaBinaryWrappers/BiCePS_jll.jl/releases/download/BiCePS-v0.9.4+0/BiCePS.v0.9.4.armv7l-linux-musleabihf-cxx11.tar.gz"
-[[BiCePS]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "ee1589534b6aed7b93e8682efd4b1156a627473a"
-libc = "glibc"
-os = "linux"
-
-    [[BiCePS.download]]
-    sha256 = "19472a76a6f318d42a5aae7305b32ac3758ce2243daf0826a9c681a81df86fbd"
-    url = "https://github.com/JuliaBinaryWrappers/BiCePS_jll.jl/releases/download/BiCePS-v0.9.4+0/BiCePS.v0.9.4.i686-linux-gnu-cxx03.tar.gz"
-[[BiCePS]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "758c2087e900fa8a1d0a6318e5135ff87df06865"
-libc = "glibc"
-os = "linux"
-
-    [[BiCePS.download]]
-    sha256 = "d932947d1299604d2f3db7a735d78f44494522fa7f29b8b117d18a60d07be03a"
-    url = "https://github.com/JuliaBinaryWrappers/BiCePS_jll.jl/releases/download/BiCePS-v0.9.4+0/BiCePS.v0.9.4.i686-linux-gnu-cxx11.tar.gz"
-[[BiCePS]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "f6b2dc3c922646657bcb92f7c9b1c7ec4c32c0bd"
-libc = "musl"
-os = "linux"
-
-    [[BiCePS.download]]
-    sha256 = "8e7d0fde06fff2bf95fe2ff1f1d011ee1a7176cd2a7bcfc77c6ecf5a8934e394"
-    url = "https://github.com/JuliaBinaryWrappers/BiCePS_jll.jl/releases/download/BiCePS-v0.9.4+0/BiCePS.v0.9.4.i686-linux-musl-cxx03.tar.gz"
-[[BiCePS]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "f586d1e83b55a7b09bd437171ad3fdc3f31ecd32"
-libc = "musl"
-os = "linux"
-
-    [[BiCePS.download]]
-    sha256 = "bab8435e51852f982d2bbd22eff3c8daa3d56e4092ff868b406345494063997f"
-    url = "https://github.com/JuliaBinaryWrappers/BiCePS_jll.jl/releases/download/BiCePS-v0.9.4+0/BiCePS.v0.9.4.i686-linux-musl-cxx11.tar.gz"
-[[BiCePS]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "e7f7796856d8a788ea2839efb4d51f7aa4533fd7"
-os = "windows"
-
-    [[BiCePS.download]]
-    sha256 = "08fe25633bae3517e5a338a703af9707ab8a168c5322d33f8ed3de61917700b4"
-    url = "https://github.com/JuliaBinaryWrappers/BiCePS_jll.jl/releases/download/BiCePS-v0.9.4+0/BiCePS.v0.9.4.i686-w64-mingw32-cxx03.tar.gz"
-[[BiCePS]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "946c3eb79ed2685c623a1e766e492dd4b580c65b"
-os = "windows"
-
-    [[BiCePS.download]]
-    sha256 = "02d5439dca0dffe2f089c5ef2ff91e03d52f55a15767c7695db5b227507996eb"
-    url = "https://github.com/JuliaBinaryWrappers/BiCePS_jll.jl/releases/download/BiCePS-v0.9.4+0/BiCePS.v0.9.4.i686-w64-mingw32-cxx11.tar.gz"
-[[BiCePS]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "ea1baf3f04e3ee8877ceb00c9ed49ba18aa54e11"
-libc = "glibc"
-os = "linux"
-
-    [[BiCePS.download]]
-    sha256 = "5d7baf234f3ded53077e7304fa002d731c85ae58a76ed83a6cbf22c5db37684b"
-    url = "https://github.com/JuliaBinaryWrappers/BiCePS_jll.jl/releases/download/BiCePS-v0.9.4+0/BiCePS.v0.9.4.powerpc64le-linux-gnu-cxx03.tar.gz"
-[[BiCePS]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "3523ecddb6ab28050f6074922478fb3caa2926a1"
-libc = "glibc"
-os = "linux"
-
-    [[BiCePS.download]]
-    sha256 = "ef9396bd2fba5d743967cc649a35ac350e15ceb5b82158b22f238e00cfe2b364"
-    url = "https://github.com/JuliaBinaryWrappers/BiCePS_jll.jl/releases/download/BiCePS-v0.9.4+0/BiCePS.v0.9.4.powerpc64le-linux-gnu-cxx11.tar.gz"
-[[BiCePS]]
-arch = "x86_64"
-git-tree-sha1 = "4904a1a9df7a2976dee0532ee692dd13d3cd1466"
+git-tree-sha1 = "4b278e7f69847a33552200abc42e5639f554ff8c"
 os = "macos"
 
     [[BiCePS.download]]
-    sha256 = "cfdc32301632424c70402fe463e4278f6544780625a71ae8c3ff2fed87939649"
-    url = "https://github.com/JuliaBinaryWrappers/BiCePS_jll.jl/releases/download/BiCePS-v0.9.4+0/BiCePS.v0.9.4.x86_64-apple-darwin.tar.gz"
+    sha256 = "b2f260f406206337c91f6c3ad66e00c543c6150fcf072065764992f68a1589de"
+    url = "https://github.com/JuliaBinaryWrappers/BiCePS_jll.jl/releases/download/BiCePS-v0.9400.400+0/BiCePS.v0.9400.400.aarch64-apple-darwin.tar.gz"
 [[BiCePS]]
-arch = "x86_64"
+arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a67bac90a3df22be087a849bff5baad94530fb3b"
+git-tree-sha1 = "a994b67c971e9fc312aaeb4de08300dd0fc1503f"
 libc = "glibc"
 os = "linux"
 
     [[BiCePS.download]]
-    sha256 = "8d78ab66e040916407d5f2f872e875438638382d40f277f54f6cc85dbc977c98"
-    url = "https://github.com/JuliaBinaryWrappers/BiCePS_jll.jl/releases/download/BiCePS-v0.9.4+0/BiCePS.v0.9.4.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "25edd2ee4d303f43c627ec619e48c989768a202994fd12888d40d55432e8b77b"
+    url = "https://github.com/JuliaBinaryWrappers/BiCePS_jll.jl/releases/download/BiCePS-v0.9400.400+0/BiCePS.v0.9400.400.aarch64-linux-gnu-cxx03.tar.gz"
 [[BiCePS]]
-arch = "x86_64"
+arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "de9b4d9a0d522e915d603609502f2d2c14a53240"
+git-tree-sha1 = "13f3354f4698854d10f2f7c8acbd50a4d8dee15b"
 libc = "glibc"
 os = "linux"
 
     [[BiCePS.download]]
-    sha256 = "c84d302e9a92bf9247ec3b295caf4f8445630288a6588dd51802886f35c631f3"
-    url = "https://github.com/JuliaBinaryWrappers/BiCePS_jll.jl/releases/download/BiCePS-v0.9.4+0/BiCePS.v0.9.4.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "a6689f8ccd00e8142356fd48645a255ca01a6124b573126d004652306020dd28"
+    url = "https://github.com/JuliaBinaryWrappers/BiCePS_jll.jl/releases/download/BiCePS-v0.9400.400+0/BiCePS.v0.9400.400.aarch64-linux-gnu-cxx11.tar.gz"
 [[BiCePS]]
-arch = "x86_64"
+arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a49a56013f88407d350f3fdefc05c19b142ba926"
+git-tree-sha1 = "74a1bee167f02919c262f59366c1ce7ffcc41df3"
 libc = "musl"
 os = "linux"
 
     [[BiCePS.download]]
-    sha256 = "7224df44adf7603f43871faeb93b20807816829628e555d54e0bb816e8d9f091"
-    url = "https://github.com/JuliaBinaryWrappers/BiCePS_jll.jl/releases/download/BiCePS-v0.9.4+0/BiCePS.v0.9.4.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "c70148e7e63442e9b1fbf03800fa3c2edd4f1f245a5c8b55a8c30835cc62fe2c"
+    url = "https://github.com/JuliaBinaryWrappers/BiCePS_jll.jl/releases/download/BiCePS-v0.9400.400+0/BiCePS.v0.9400.400.aarch64-linux-musl-cxx03.tar.gz"
 [[BiCePS]]
-arch = "x86_64"
+arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7795e2a2343c3545b813f361759aa1d60cd147ff"
+git-tree-sha1 = "6c7ab227f3ef792c51fefe9aabbf4ce235997db9"
 libc = "musl"
 os = "linux"
 
     [[BiCePS.download]]
-    sha256 = "013231721a8bf7e9da2ab8a609c717cb5314423a9a19141b0df5733f27577871"
-    url = "https://github.com/JuliaBinaryWrappers/BiCePS_jll.jl/releases/download/BiCePS-v0.9.4+0/BiCePS.v0.9.4.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "029c88edf0dfd3a7a8bc7961c43dc803338860523afd539bc1e55ddac840743c"
+    url = "https://github.com/JuliaBinaryWrappers/BiCePS_jll.jl/releases/download/BiCePS-v0.9400.400+0/BiCePS.v0.9400.400.aarch64-linux-musl-cxx11.tar.gz"
+[[BiCePS]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7cc32077c64f6eba815485603839c72fcd9b1e2c"
+libc = "glibc"
+os = "linux"
+
+    [[BiCePS.download]]
+    sha256 = "018848cd03bb632671cfda233d0b88639043cb9f0f23e6c40d8b62c2116d927c"
+    url = "https://github.com/JuliaBinaryWrappers/BiCePS_jll.jl/releases/download/BiCePS-v0.9400.400+0/BiCePS.v0.9400.400.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[BiCePS]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d8259970db0000f1c2ac17f3a372508ffa40f84b"
+libc = "glibc"
+os = "linux"
+
+    [[BiCePS.download]]
+    sha256 = "4f70f4e3c6c48075efa5ff717e74bb4f65a3efaf1f672d4f7ea3acd6aa59d69d"
+    url = "https://github.com/JuliaBinaryWrappers/BiCePS_jll.jl/releases/download/BiCePS-v0.9400.400+0/BiCePS.v0.9400.400.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[BiCePS]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2596a59ec76f1cead4e83c271092892793cb61d7"
+libc = "musl"
+os = "linux"
+
+    [[BiCePS.download]]
+    sha256 = "e21d54dcecaee544ac93b6e947365130e4a62d324e507a2eaf75ad68e04c89c7"
+    url = "https://github.com/JuliaBinaryWrappers/BiCePS_jll.jl/releases/download/BiCePS-v0.9400.400+0/BiCePS.v0.9400.400.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[BiCePS]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5d4f4de85712ec76ee4b21f3866ac7f3f79e366d"
+libc = "musl"
+os = "linux"
+
+    [[BiCePS.download]]
+    sha256 = "7e1766b4498f230e856f07e521fd5dab9807d1dbadbb53cf6e0ad42235785335"
+    url = "https://github.com/JuliaBinaryWrappers/BiCePS_jll.jl/releases/download/BiCePS-v0.9400.400+0/BiCePS.v0.9400.400.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[BiCePS]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "602f3a3f1877c181b9377d66610ff571c614481f"
+libc = "glibc"
+os = "linux"
+
+    [[BiCePS.download]]
+    sha256 = "14696cd0fc5a6b1d3b84d3cb3709914850fbaced4a1235dc78089be1621ff867"
+    url = "https://github.com/JuliaBinaryWrappers/BiCePS_jll.jl/releases/download/BiCePS-v0.9400.400+0/BiCePS.v0.9400.400.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[BiCePS]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0fbc10b7609ed436562c366d372ae2edbc4c1b1f"
+libc = "glibc"
+os = "linux"
+
+    [[BiCePS.download]]
+    sha256 = "fe39dd6964214de48d5c91c3eee28b8a60f987c7e9f6ad8db7c621dbaeadb785"
+    url = "https://github.com/JuliaBinaryWrappers/BiCePS_jll.jl/releases/download/BiCePS-v0.9400.400+0/BiCePS.v0.9400.400.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[BiCePS]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "52efee99738e368e15e9f87abc84594fdf31ecb1"
+libc = "musl"
+os = "linux"
+
+    [[BiCePS.download]]
+    sha256 = "d898e67ef7955d7ee7ed48e59ed6ffb58ed7eea617dc99e32e582a3c280186c0"
+    url = "https://github.com/JuliaBinaryWrappers/BiCePS_jll.jl/releases/download/BiCePS-v0.9400.400+0/BiCePS.v0.9400.400.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[BiCePS]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e768304c22cc1e23395fd907dabf30c35840f849"
+libc = "musl"
+os = "linux"
+
+    [[BiCePS.download]]
+    sha256 = "5705382cf048e719cb7381f53daeb56fc2b52386b33fa0dde030fd032855385d"
+    url = "https://github.com/JuliaBinaryWrappers/BiCePS_jll.jl/releases/download/BiCePS-v0.9400.400+0/BiCePS.v0.9400.400.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[BiCePS]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "30b354eeeab3cb2252566a1e32fdc134ab19f773"
+libc = "glibc"
+os = "linux"
+
+    [[BiCePS.download]]
+    sha256 = "6a13bf699541c6bb27c3801fa704d84c58c5a2708e985f151672c5cc3c3840c1"
+    url = "https://github.com/JuliaBinaryWrappers/BiCePS_jll.jl/releases/download/BiCePS-v0.9400.400+0/BiCePS.v0.9400.400.i686-linux-gnu-cxx03.tar.gz"
+[[BiCePS]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5eb7dbdfd1a2a8a5153b1eb0b9451c1f4f6e3a09"
+libc = "glibc"
+os = "linux"
+
+    [[BiCePS.download]]
+    sha256 = "812f386bc25e82b3bfff68b8aebad1550dc3eadff975f8465705b8a5b903fcf6"
+    url = "https://github.com/JuliaBinaryWrappers/BiCePS_jll.jl/releases/download/BiCePS-v0.9400.400+0/BiCePS.v0.9400.400.i686-linux-gnu-cxx11.tar.gz"
+[[BiCePS]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ba946bb07b1503c175552479a92c56c64d2819af"
+libc = "musl"
+os = "linux"
+
+    [[BiCePS.download]]
+    sha256 = "304685fc5613ca59b5a0f870b803905209403d87af10a33259ada2f448c0aeee"
+    url = "https://github.com/JuliaBinaryWrappers/BiCePS_jll.jl/releases/download/BiCePS-v0.9400.400+0/BiCePS.v0.9400.400.i686-linux-musl-cxx03.tar.gz"
+[[BiCePS]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "962a6105ea14cc315763be19abe34d7c573bdfb4"
+libc = "musl"
+os = "linux"
+
+    [[BiCePS.download]]
+    sha256 = "bc1f22b20a9a89709becef059d70b144989cb71ee5924aa2919b05675a112665"
+    url = "https://github.com/JuliaBinaryWrappers/BiCePS_jll.jl/releases/download/BiCePS-v0.9400.400+0/BiCePS.v0.9400.400.i686-linux-musl-cxx11.tar.gz"
+[[BiCePS]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "be478a41cdd35e1e28edbf39d74b7b710c8d0941"
+os = "windows"
+
+    [[BiCePS.download]]
+    sha256 = "557c0601d273490f1f5e6d3982ec49bec1566d108f1d988f460be78ff42fd1c6"
+    url = "https://github.com/JuliaBinaryWrappers/BiCePS_jll.jl/releases/download/BiCePS-v0.9400.400+0/BiCePS.v0.9400.400.i686-w64-mingw32-cxx03.tar.gz"
+[[BiCePS]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "446da99c763f5d46121f65270ca061c2a2a6718c"
+os = "windows"
+
+    [[BiCePS.download]]
+    sha256 = "60507b8e6c8c888099e3e4478986014c70155aaf8bf0ac22afe18233af81efd4"
+    url = "https://github.com/JuliaBinaryWrappers/BiCePS_jll.jl/releases/download/BiCePS-v0.9400.400+0/BiCePS.v0.9400.400.i686-w64-mingw32-cxx11.tar.gz"
+[[BiCePS]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8470ab76eb5b4353db0921e4299aa61f16de000c"
+libc = "glibc"
+os = "linux"
+
+    [[BiCePS.download]]
+    sha256 = "d1d20c43d3e06af59dd425887732317450c458c5242a876eda1df8b1354ef24d"
+    url = "https://github.com/JuliaBinaryWrappers/BiCePS_jll.jl/releases/download/BiCePS-v0.9400.400+0/BiCePS.v0.9400.400.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[BiCePS]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e421ffd8eb0788a62b7162f0af2de0154d325ec8"
+libc = "glibc"
+os = "linux"
+
+    [[BiCePS.download]]
+    sha256 = "98adb9363d652ac810e9e7b89b437d12ba7dd7f56669223857a7466fc79d3346"
+    url = "https://github.com/JuliaBinaryWrappers/BiCePS_jll.jl/releases/download/BiCePS-v0.9400.400+0/BiCePS.v0.9400.400.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[BiCePS]]
+arch = "x86_64"
+git-tree-sha1 = "6fdb7731a1b17b00cf8b47acf21f04a501e5cd21"
+os = "macos"
+
+    [[BiCePS.download]]
+    sha256 = "9a5aacd45c3b7601b2c6da3f580c1dd446a4ad4dec435d5f69f01f10bc9d4528"
+    url = "https://github.com/JuliaBinaryWrappers/BiCePS_jll.jl/releases/download/BiCePS-v0.9400.400+0/BiCePS.v0.9400.400.x86_64-apple-darwin.tar.gz"
 [[BiCePS]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "728344041504cbeb61b3be2cca1b3890b29a00f3"
-os = "windows"
+git-tree-sha1 = "999a18698a5e6bae30b80b02a28549066edef9aa"
+libc = "glibc"
+os = "linux"
 
     [[BiCePS.download]]
-    sha256 = "db49f7e9e5e6aa8d2c665964a5d33c585b8e033ae4987caf557204f090da34d6"
-    url = "https://github.com/JuliaBinaryWrappers/BiCePS_jll.jl/releases/download/BiCePS-v0.9.4+0/BiCePS.v0.9.4.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "12d6b144f612b83c185c6c051033ebaa7917ce97030edfc0fcb11f17b490af64"
+    url = "https://github.com/JuliaBinaryWrappers/BiCePS_jll.jl/releases/download/BiCePS-v0.9400.400+0/BiCePS.v0.9400.400.x86_64-linux-gnu-cxx03.tar.gz"
 [[BiCePS]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f4e95851d52b63eea604e7ce3d3c6c14d671231c"
+git-tree-sha1 = "3450b67f0523802e08cffb98762c26c4e67e08fc"
+libc = "glibc"
+os = "linux"
+
+    [[BiCePS.download]]
+    sha256 = "9445b9b86013c7d16e8ed5ac3b25bb9afffc00c4932db0c4c8583c91580f630c"
+    url = "https://github.com/JuliaBinaryWrappers/BiCePS_jll.jl/releases/download/BiCePS-v0.9400.400+0/BiCePS.v0.9400.400.x86_64-linux-gnu-cxx11.tar.gz"
+[[BiCePS]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "96323f9f201ba2816d72c70feadcbcc0cef1feb1"
+libc = "musl"
+os = "linux"
+
+    [[BiCePS.download]]
+    sha256 = "9733b88eb185629670f4325ce34d462ba73c5ffc44967df48bbb941cf0e7c008"
+    url = "https://github.com/JuliaBinaryWrappers/BiCePS_jll.jl/releases/download/BiCePS-v0.9400.400+0/BiCePS.v0.9400.400.x86_64-linux-musl-cxx03.tar.gz"
+[[BiCePS]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "917ffcb21d2f8c6fd52a39e537d3090c3f667f75"
+libc = "musl"
+os = "linux"
+
+    [[BiCePS.download]]
+    sha256 = "e4f44970675de04f5e6d434eb0327e665b9b6b129e6187cf370b9ccf8a445be1"
+    url = "https://github.com/JuliaBinaryWrappers/BiCePS_jll.jl/releases/download/BiCePS-v0.9400.400+0/BiCePS.v0.9400.400.x86_64-linux-musl-cxx11.tar.gz"
+[[BiCePS]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8ff66f3e50865430c057ba8aeed371ff06092c55"
 os = "windows"
 
     [[BiCePS.download]]
-    sha256 = "5741c5fbcf77b83f10553186e099d7ee7f305482caeeaa598fcf0b88c3d1d3e2"
-    url = "https://github.com/JuliaBinaryWrappers/BiCePS_jll.jl/releases/download/BiCePS-v0.9.4+0/BiCePS.v0.9.4.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "4c65f71b110a60ca8d9d405b45a37880c9c1a1d6f9a44cbe7b7ebcb697d5bf1f"
+    url = "https://github.com/JuliaBinaryWrappers/BiCePS_jll.jl/releases/download/BiCePS-v0.9400.400+0/BiCePS.v0.9400.400.x86_64-w64-mingw32-cxx03.tar.gz"
+[[BiCePS]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "73727ab0d3710d0ff1027c7f68c8113d147996c7"
+os = "windows"
+
+    [[BiCePS.download]]
+    sha256 = "8a711bc7eb2d6bc167104410d3618f77fde77ebae3cd10dd912338f02c2d6ae3"
+    url = "https://github.com/JuliaBinaryWrappers/BiCePS_jll.jl/releases/download/BiCePS-v0.9400.400+0/BiCePS.v0.9400.400.x86_64-w64-mingw32-cxx11.tar.gz"
